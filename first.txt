@@ -2,4 +2,5 @@ gitの練習をしていきます
 基本的な操作を学びます。
 ・git add
 ・git commit
+・git remove
 
